@@ -3,5 +3,6 @@ This project implements age and gender detection using Python and deep learning 
 
 
 
+![Screenshot 2024-05-18 095458](https://github.com/user-attachments/assets/1d73d022-08b9-44df-879b-7acace9fc492)
 
 
